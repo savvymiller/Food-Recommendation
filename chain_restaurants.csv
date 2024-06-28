@@ -1,0 +1,100 @@
+name,cost,healthiness,speed
+McDonald's,0.2,0.3,0.9
+Starbucks,0.4,0.5,0.8
+Subway,0.3,0.7,0.7
+Burger King,0.3,0.3,0.8
+Taco Bell,0.3,0.3,0.8
+Wendy's,0.3,0.4,0.8
+Dunkin',0.3,0.4,0.9
+Chick-fil-A,0.5,0.6,0.8
+Domino's Pizza,0.4,0.4,0.7
+Pizza Hut,0.4,0.4,0.7
+KFC,0.4,0.3,0.8
+Popeyes,0.4,0.3,0.8
+Chipotle,0.5,0.7,0.7
+Panera Bread,0.6,0.7,0.6
+Sonic,0.3,0.4,0.8
+Arby's,0.4,0.4,0.7
+Little Caesars,0.3,0.3,0.7
+Dairy Queen,0.3,0.3,0.8
+Five Guys,0.6,0.5,0.7
+Jimmy John's,0.4,0.6,0.8
+Olive Garden,0.7,0.6,0.4
+Applebee's,0.6,0.5,0.5
+Buffalo Wild Wings,0.6,0.5,0.5
+IHOP,0.5,0.5,0.5
+Outback Steakhouse,0.7,0.5,0.4
+Red Lobster,0.7,0.6,0.4
+Texas Roadhouse,0.6,0.5,0.4
+Chili's,0.6,0.5,0.5
+Denny's,0.5,0.4,0.6
+Red Robin,0.6,0.5,0.5
+Cracker Barrel,0.5,0.6,0.4
+Papa John's,0.4,0.4,0.7
+TGI Fridays,0.6,0.5,0.5
+Carrabba's,0.7,0.6,0.4
+LongHorn Steakhouse,0.7,0.6,0.4
+The Cheesecake Factory,0.8,0.5,0.5
+Cheddar's Scratch Kitchen,0.6,0.6,0.5
+Qdoba,0.5,0.6,0.7
+Bojangles,0.4,0.3,0.8
+Noodles & Company,0.5,0.7,0.7
+El Pollo Loco,0.4,0.6,0.7
+Moe's Southwest Grill,0.5,0.6,0.7
+Raising Cane's,0.4,0.4,0.8
+Zaxby's,0.4,0.4,0.8
+Wingstop,0.4,0.4,0.7
+Jersey Mike's Subs,0.4,0.6,0.8
+Boston Market,0.5,0.6,0.6
+Fazoli's,0.4,0.5,0.7
+Jack in the Box,0.3,0.3,0.8
+Carl's Jr.,0.4,0.3,0.8
+Hardee's,0.4,0.3,0.8
+In-N-Out Burger,0.5,0.4,0.8
+Whataburger,0.4,0.4,0.8
+Blaze Pizza,0.5,0.6,0.7
+MOD Pizza,0.5,0.6,0.7
+Shake Shack,0.6,0.5,0.8
+Tim Hortons,0.3,0.4,0.8
+Einstein Bros. Bagels,0.4,0.5,0.7
+Peet's Coffee,0.4,0.5,0.8
+Jamba Juice,0.4,0.6,0.8
+Smoothie King,0.4,0.6,0.8
+Auntie Anne's,0.3,0.4,0.8
+Cinnabon,0.3,0.3,0.8
+Cold Stone Creamery,0.5,0.4,0.8
+Baskin-Robbins,0.4,0.3,0.8
+Ben & Jerry's,0.5,0.4,0.8
+Krispy Kreme,0.4,0.3,0.8
+Marble Slab Creamery,0.5,0.4,0.8
+Panda Express,0.4,0.4,0.8
+Sbarro,0.3,0.4,0.7
+Yoshinoya,0.4,0.5,0.7
+Church's Chicken,0.4,0.3,0.8
+Golden Corral,0.5,0.4,0.5
+Hooters,0.5,0.4,0.6
+Joe's Crab Shack,0.6,0.5,0.5
+Bonefish Grill,0.7,0.6,0.4
+Ruth's Chris Steak House,0.9,0.6,0.4
+Morton's The Steakhouse,0.9,0.6,0.4
+P.F. Chang's,0.7,0.6,0.5
+Buca di Beppo,0.6,0.5,0.5
+Maggiano's Little Italy,0.7,0.6,0.5
+Seasons 52,0.8,0.7,0.5
+Yard House,0.7,0.6,0.5
+True Food Kitchen,0.8,0.7,0.6
+McAlister's Deli,0.4,0.6,0.7
+Firehouse Subs,0.4,0.6,0.7
+Potbelly Sandwich Shop,0.4,0.6,0.7
+Sweetgreen,0.6,0.8,0.7
+Smashburger,0.5,0.5,0.7
+Hurricane Grill & Wings,0.5,0.5,0.6
+Tropical Smoothie Cafe,0.4,0.7,0.7
+Cafe Rio,0.5,0.6,0.7
+Costa Vida,0.5,0.6,0.7
+Freddy's Frozen Custard & Steakburgers,0.4,0.5,0.7
+Culver's,0.4,0.5,0.7
+Steak 'n Shake,0.4,0.4,0.8
+White Castle,0.3,0.3,0.8
+Checkers,0.3,0.3,0.8
+Andy’s Frozen Custard,0.4,0.5,0.8
